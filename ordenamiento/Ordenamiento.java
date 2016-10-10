@@ -1,9 +1,5 @@
 package ordenamiento;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Queue;
 
 import estructurasDatos.ListaSimple;
 import estructurasDatos.Nodo;
