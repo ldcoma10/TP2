@@ -1,7 +1,7 @@
 package estructurasDatos;
 
 public class Nodo <T> {
-	private T dato;
+	private T dato;	
 	private Nodo <T>  siguiente;
 	
 	public Nodo(){
